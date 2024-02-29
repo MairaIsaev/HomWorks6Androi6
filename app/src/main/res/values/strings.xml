@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HomWorks6Java2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fab_go_to_insert_content_description">+\n</string>
+    <string name="input_title_hint">input_title_hint</string>
+    <string name="input_url_hint">input_url_hint\n</string>
+    <string name="input_thumbnail_url_hint">input_thumbnail_url_hint\n</string>
+    <string name="add">add</string>
+    <string name="success_message">success_message</string>
+</resources>
